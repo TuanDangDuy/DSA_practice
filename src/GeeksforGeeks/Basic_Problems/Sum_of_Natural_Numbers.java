@@ -2,6 +2,8 @@ package GeeksforGeeks.Basic_Problems;
 
 import java.util.Scanner;
 
+//Program to find sum of first n natural numbers
+//https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/
 public class Sum_of_Natural_Numbers {
 
     public static void findSum(int n) {
