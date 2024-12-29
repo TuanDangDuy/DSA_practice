@@ -17,6 +17,8 @@ public class Sum_of_Natural_Numbers {
         int n = scanner.nextInt();
 
         findSum(n);
+
+        scanner.close();
     }
 
 }

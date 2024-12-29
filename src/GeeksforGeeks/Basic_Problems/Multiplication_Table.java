@@ -18,5 +18,7 @@ public class Multiplication_Table {
         int n = scanner.nextInt();
 
         printTable(n);
+
+        scanner.close();
     }
 }
